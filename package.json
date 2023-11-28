@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@tawk.to/tawk-messenger-react": "^2.0.2"
+  }
+}
